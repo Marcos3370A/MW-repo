@@ -1,0 +1,24 @@
+{
+  "name": "mw-repo",
+  "version": "1.0.0",
+  "description": "two brothers repo for any projects and ideas",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wellyton-xs/MW-repo.git"
+  },
+  "author": "welly, marcos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellyton-xs/MW-repo/issues"
+  },
+  "homepage": "https://github.com/wellyton-xs/MW-repo#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
